@@ -1,4 +1,5 @@
 ActiveAdmin.register Map do
+  permit_params 
 
 
   # See permitted parameters documentation:
